@@ -1,0 +1,9 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto 45px;
+}
+
+.input {
+  width: max-content;
+  margin: 30px auto;
+}

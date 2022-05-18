@@ -1,0 +1,8 @@
+.listWrap {
+  width: max-content;
+  margin: 30px auto;
+}
+
+.li {
+  padding: 10px 0;
+}

@@ -1,0 +1,16 @@
+.table {
+  width: 100%;
+  text-align: center;
+  border: 1px solid #9a0680;
+}
+
+.thead {
+  background-color: #9a0680;
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.padding {
+  border: 1px solid #9a0680;
+  padding: 15px;
+}

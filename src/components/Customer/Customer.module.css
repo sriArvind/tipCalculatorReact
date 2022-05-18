@@ -1,0 +1,14 @@
+.customLabel {
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.customInput {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 270px;
+  height: 45px;
+  font-size: 1em;
+}

@@ -1,0 +1,21 @@
+.addCustomer {
+  display: block;
+  margin: 30px auto;
+  padding: 10px 15px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: #019267;
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.calculateTip {
+  display: block;
+  margin: 30px auto;
+  padding: 10px 15px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: #9a0680;
+  color: #ffffff;
+  font-size: 18px;
+}

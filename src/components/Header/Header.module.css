@@ -1,0 +1,16 @@
+.header {
+  padding: 20px 0;
+  text-align: center;
+  background-color: #084594;
+  color: #ffffff;
+}
+
+.title {
+  margin: 5px 0;
+  font-family: Roboto;
+  font-size: 2em;
+}
+
+.tagLine {
+  font-size: 1.5em;
+}
